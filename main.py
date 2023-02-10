@@ -56,7 +56,7 @@ def move():
     ontimer(move, 100)
 
 
-setup(420, 420, 370, 0)
+setup(1440, 440, 370, 0)
 hideturtle()
 tracer(False)
 listen()
